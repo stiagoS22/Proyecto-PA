@@ -1,0 +1,21 @@
+:root{
+  --dark-green: #50b350;
+  --light-green: #75ff75;
+  --smoke-green: #699169;
+  --light-grey: #a6a6a6;
+}
+
+.register{
+  background-color: var(--light-grey);
+}
+
+body{
+  height: 100vh;
+  width: 100vw;
+  align-items: center; 
+  justify-content: center
+}
+
+.balg{
+  background: linear-gradient(to right, #1c1c1c, #3f702a);
+}
